@@ -5,7 +5,7 @@ I work with data, machine learning and software. I build small tools and applica
 ## Featured projects
 
 - **[CharterME](https://github.com/plooowry/CharterME):** an AI-powered web app that helps UK engineers prepare Chartered Engineer applications. React, TypeScript and the Gemini API.
-- **[Dictaphone](https://github.com/plooowry/dictaphone):** a macOS menu-bar dictation app with on-device transcription and text-to-speech. Swift.
+- **[Dictaphone](https://github.com/plooowry/dictaphone):** a macOS menu-bar dictation app with on-device transcription and text-to-speech, plus a meeting mode that records the microphone and system audio and labels speakers. Swift.
 - **[DS-Course-](https://github.com/plooowry/DS-Course-):** a data science analysis of vessel tracking, port and financial transaction data. Python and Jupyter.
 - **[Imperial_MLandAI_Cert](https://github.com/plooowry/Imperial_MLandAI_Cert):** notebooks on the mathematics and statistics behind machine learning.
 
