@@ -1,6 +1,6 @@
 # Patrick Lowry
 
-Engineer working with data, machine learning and software. I build small tools and applications, and I keep notes on what I study.
+I work with data, machine learning and software. I build small tools and applications, and I keep notes on what I study.
 
 ## Featured projects
 
