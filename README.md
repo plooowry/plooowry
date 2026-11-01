@@ -1,6 +1,6 @@
 # Patrick Lowry
 
-I work at the UK AI Security Institute and am interested in AI safety.
+I work at the UK AI Security Institute and I'm interested in AI safety.
 
 In my own time I build software to solve problems I run into. The projects below are personal and unrelated to my work at the Institute.
 
