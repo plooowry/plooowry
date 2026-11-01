@@ -1,29 +1,25 @@
-# Hi, I'm Patrick 👋
+# Patrick Lowry
 
-I work at the **UK AI Security Institute**, and I'm interested in AI safety: making sure powerful AI systems are understood, tested and trustworthy.
+I work at the UK AI Security Institute and am interested in AI safety.
 
-Outside work, I build software to fix problems in my own life. When something annoys me I build a tool for it, ship it, and keep improving it once real people are using it. Everything here is a personal project, not work for the Institute.
+In my own time I build software to solve problems I run into. The projects below are personal and unrelated to my work at the Institute.
 
-## 🛠️ Things I've built
+## Projects
 
-| Project | The problem | What I built |
-| --- | --- | --- |
-| **[Dictaphone](https://github.com/plooowry/dictaphone)** | I wanted private dictation and meeting notes, without sending audio to the cloud | A macOS menu-bar app that transcribes on-device with Whisper, labels speakers in meetings (mic + system audio), and reads text back with neural voices. **Swift** |
-| **[CharterME](https://github.com/plooowry/CharterME)** | Chartered Engineer applications are long, scattered and hard to get right | An AI assistant that tracks competencies, organises evidence and drafts the final application with an LLM. **React, TypeScript, Gemini API** |
-| **[Lowry Secret Santa](https://github.com/plooowry/lowry-secret-santa)** · [▶ live](https://lowry-secret-santa.vercel.app) | Running the family Secret Santa over group chat meant someone always knew the draw | A pixel-art web app with PIN logins, a fair automated draw (no self or partner matches) and shared wish lists. It's used by 10 family members. **JavaScript, Supabase (Postgres), Vercel** |
+- **[Dictaphone](https://github.com/plooowry/dictaphone):** a macOS menu-bar app for private dictation and meeting notes. It transcribes speech on the device with Whisper, separates speakers in meetings and reads text aloud. Swift.
+- **[CharterME](https://github.com/plooowry/CharterME):** helps engineers prepare Chartered Engineer applications by tracking competencies, organising evidence and drafting the final submission with an LLM. React, TypeScript and the Gemini API.
+- **[Lowry Secret Santa](https://github.com/plooowry/lowry-secret-santa)** ([live](https://lowry-secret-santa.vercel.app)): a web app that runs my family's Secret Santa. It draws names so that nobody knows the full result, and each person sees only their own match and that person's wish list. JavaScript, Supabase and Vercel.
 
-## 🧠 AI & machine learning
+## Machine learning and data science
 
-- **[Imperial College: AI & Machine Learning](https://github.com/plooowry/Imperial_MLandAI_Cert)**: the mathematics and statistics behind ML, worked through in notebooks
-- **[Vessel tracking analysis](https://github.com/plooowry/DS-Course-)**: data science on ship-tracking, port and financial transaction data
-- **[Edinburgh: Practical Introduction to Data Science](https://github.com/plooowry/Edinburgg_PITDS_2023)** and **Harvard CS50 / CS50 AI**
+- **[Imperial College AI and Machine Learning](https://github.com/plooowry/Imperial_MLandAI_Cert):** notebooks on the mathematics and statistics behind machine learning.
+- **[Vessel tracking analysis](https://github.com/plooowry/DS-Course-):** analysis of ship tracking, port and financial transaction data.
+- **[University of Edinburgh, Practical Introduction to Data Science](https://github.com/plooowry/Edinburgg_PITDS_2023)**, and Harvard CS50 and CS50 AI.
 
-## 🧰 Toolkit
+## Skills
 
-**Languages:** Python · TypeScript · JavaScript · Swift · SQL · C
-**ML & data:** pandas · NumPy · Jupyter · Whisper · LLM APIs
-**Building & shipping:** React · Vite · Supabase · Vercel · GitHub Pages · Git
+Python, TypeScript, JavaScript, Swift, SQL and C. pandas, NumPy and Jupyter. React, Supabase and Vercel.
 
-## 📫 Find me
+## Links
 
 [plooowry.github.io](https://plooowry.github.io)
